@@ -1,10 +1,3 @@
-# freezing-octo-avenger
-Heisprosjekt
+# Heisprosjekt
 
-
-Tester
-
-
-
-TEEESTER
-
+Test.
